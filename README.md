@@ -52,4 +52,5 @@ To run as stand alone app invoke as below:
 
 #### Shot
 ![Flip Leaf Clock](flip_leaf_clock.jpg)
+![Flip Leaf Clock](00output.gif)
 
