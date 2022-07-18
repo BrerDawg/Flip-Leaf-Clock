@@ -47,5 +47,5 @@ To Do
 ~~~~~
 Add filtering to remove jaggies during flip, as is done for small window in 'xscreensaver-demo'
 
-![Flip Leaf Clock](flip_leaf_clock.jpg)
+![Flip Leaf Clock](./flip_leaf_clock.jpg)
 
