@@ -16,7 +16,7 @@ make
 copy built 'flip_leaf_clock' executable to where your screen savers are installed (root priveleges req)\
 e.g: Ubuntu folder: /usr/lib/xscreensaver/
 
-copy 'flip_leaf_clock.xml' file to your screen savers config folder:
+copy 'flip_leaf_clock.xml' file to your screen savers config folder:\
 e.g: /usr/share/xscreensaver/config/
 
 Add an single line entry like below to '/home/YOURUSER/.xscreensaver' settings file,\
