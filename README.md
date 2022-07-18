@@ -1,3 +1,4 @@
+<img width="902" alt="Flip Leaf Clock" src="https://github.com/BrerDawg/Flip-Leaf-Clock/blob/main/flip_leaf_clock.jpg">
 
 Flip Leaf Clock								v1.01 July 2022
 ~~~~~~~~~~~~~~~
@@ -48,4 +49,3 @@ To Do
 Add filtering to remove jaggies during flip, as is done for small window in 'xscreensaver-demo'
 
 
-<img width="902" alt="Flip Leaf Clock" src="https://github.com/BrerDawg/Flip-Leaf-Clock/blob/main/flip_leaf_clock.jpg">
