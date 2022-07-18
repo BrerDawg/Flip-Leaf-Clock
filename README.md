@@ -1,18 +1,18 @@
-# Flip Leaf Clock								v1.01 July 2022
+# Flip Leaf Clock
 1970's styled flap clock screen saver for X11.
 
 Mimics the mechanical flip display on clocks made by a number manufacturers.
 
 
-C++ code depends on lib Xft, uses Xshm for faster animation.
+c++ code depends on lib Xft, uses Xshm for faster animation.
 
 
 
-# Build
+### Build
 make
 
 
-# Install
+### Install
 copy built 'flip_leaf_clock' executable to where your screen savers are installed (root priveleges req)\
 e.g: Ubuntu folder: /usr/lib/xscreensaver/
 
@@ -36,18 +36,20 @@ Enjoy.
 
 To run as stand alone app invoke as below:
 
+```sh
 ./flip_leaf_clock -a -s
-
-./flip_leaf_clock -h 			<---shows help
-
-
-
-
-# To Do
-Add filtering to remove jaggies during flip, as is done for small window in 'xscreensaver-demo'
+```
+```sh
+./flip_leaf_clock -h
+```
 
 
 
-# Shot
+### To Do
+- Add filtering to remove jaggies during flip, as is done for small window in 'xscreensaver-demo'
+
+
+
+### Shot
 ![Flip Leaf Clock](flip_leaf_clock.jpg)
 
