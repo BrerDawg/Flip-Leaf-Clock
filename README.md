@@ -1,4 +1,4 @@
-[!Flip Leaf Clock](./flip_leaf_clock.jpg)
+[!Flip Leaf Clock](flip_leaf_clock.jpg)
 
 
 Flip Leaf Clock								v1.01 July 2022
