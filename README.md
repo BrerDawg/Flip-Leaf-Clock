@@ -1,4 +1,5 @@
-<img width="902" alt="Flip Leaf Clock" src="https://github.com/BrerDawg/Flip-Leaf-Clock/blob/main/flip_leaf_clock.jpg">
+[!Flip Leaf Clock](./flip_leaf_clock.jpg)
+
 
 Flip Leaf Clock								v1.01 July 2022
 ~~~~~~~~~~~~~~~
