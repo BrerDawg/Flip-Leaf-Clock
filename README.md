@@ -13,7 +13,7 @@ make
 
 
 #### Install
-copy built 'flip_leaf_clock' executable to where your screen savers are installed (root priveleges req)\
+copy the built 'flip_leaf_clock' executable to where your screen savers are installed (root priveleges req)\
 e.g: Ubuntu folder: /usr/lib/xscreensaver/
 
 copy 'flip_leaf_clock.xml' file to your screen savers config folder:\
@@ -50,7 +50,7 @@ To run as stand alone app invoke as below:
 
 
 
-#### Shot
+#### 
 ![Flip Leaf Clock](flip_leaf_clock.jpg)
 ![Flip Leaf Clock](00output.gif)
 
