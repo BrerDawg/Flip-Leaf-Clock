@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<screensaver name="flip_leaf_clock" _label="Flip_leaf_clock">
+
+  <command arg="-root"/>
+
+  <video href="https://www.youtube.com"/>
+
+  
+
+<number id="gravity" type="slider" arg="-g %"
+          _label="Gravity" _low-label="Low" _high-label="High"
+          low="2" high="100" default="50"/>
+
+
+<number id="wander" type="slider" arg="-b %"
+          _label="Wander Period" _low-label="None" _high-label="100Sec"
+          low="0" high="100" default="30"/>
+          
+          
+  <boolean id="secs" _label="Show Seconds" arg-set="-s"/>
+  <boolean id="twenty" _label="Twenty Four Hour" arg-set="-t"/>
+
+  <xscreensaver-updater />
+
+  <_description>
+1970's style flap clock.  
+
+Written by BrerDawg, v1.01, 2022.
+  </_description>
+</screensaver>
+
+
+
