@@ -1,5 +1,5 @@
 # Flip Leaf Clock
-1970's styled flap clock screen saver for X11.
+1970's styled flap clock screen saver for x11.
 
 Mimics the mechanical flip display on clocks made by a number manufacturers.
 
@@ -50,7 +50,7 @@ To run as stand alone app invoke as below:
 
 
 
-#### 
+#### .....
 ![Flip Leaf Clock](flip_leaf_clock.jpg)
 ![Flip Leaf Clock](00output.gif)
 
